@@ -1,0 +1,32 @@
+name: Suggest a resource
+description: Propose a resource that improves a specific learning outcome
+title: "[Resource]: "
+labels: ["resource"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Resource URL
+    validations:
+      required: true
+  - type: input
+    id: outcome
+    attributes:
+      label: Roadmap stage and learning outcome
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: Why this belongs
+      description: Include learner level, format, time, access/cost, maintenance, and what it replaces or adds.
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Affiliation or conflicts
+      description: State whether you created, sell, teach, or receive benefit from this resource.
+    validations:
+      required: true
+

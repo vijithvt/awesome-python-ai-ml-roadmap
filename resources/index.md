@@ -4,6 +4,10 @@ Resources are mapped to stages so learners can follow a primary route instead of
 collecting courses. Free-to-access resources are prioritized; some may offer optional
 paid certificates.
 
+Beginners should use the ranked
+[Complete Beginner Resource Library](../paths/complete-beginner/resources.md), which
+adds prerequisites, access type, intended use and selection rationale.
+
 ## Foundations
 
 | Resource | Best for | Stage |

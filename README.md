@@ -22,6 +22,19 @@ projects, and role-specific shortcuts.
 The durations assume 7–10 focused hours per week. Move by demonstrated skill, not
 calendar time.
 
+## Expanded learning collections
+
+The roadmap is being expanded one learner path at a time into a complete learning
+collection with curriculum, selected references, industry skill evidence,
+certifications, projects, assessments and job-readiness gates.
+
+- **Available now:** [Complete Beginner Collection](paths/complete-beginner.md) —
+  52-week curriculum, diagnostic, resource library, current career-skills map,
+  certification guide, 12-project ladder and application preparation.
+- **Next:** Software Engineer → AI Engineer
+- **Planned:** Domain Professional → Applied AI
+- **Planned:** ML Practitioner → Modern GenAI/MLOps
+
 ## The roadmap
 
 ```mermaid

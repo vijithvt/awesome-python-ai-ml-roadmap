@@ -1,39 +1,52 @@
-# Path — Complete Beginner
+# Complete Beginner Path
 
-Use this path if you have little or no programming experience.
+> From zero programming experience to a credible first AI/data role through
+> deliberate practice, portfolio evidence, and role-specific specialization.
 
-**Expected duration:** 9–12 months at 7–10 hours/week.
+**Typical duration:** 9–15 months at 7–10 focused hours per week
 
-## Order
+**Minimum equipment:** a modern browser and internet connection; a local computer is
+recommended but free cloud notebooks can cover the early stages.
 
-| Phase | Weeks | Focus | Proof |
-| --- | ---: | --- | --- |
-| Orientation | 1–2 | [Tools and workflow](../roadmap/00-start-here.md) | reproducible starter repo |
-| Python | 3–10 | [Python foundations](../roadmap/01-python-foundations.md) | data-quality CLI |
-| Data | 11–16 | [Data foundations](../roadmap/02-data-foundations.md) | exploratory report |
-| Math | 13–20 | [Practical math](../roadmap/03-math-for-ml.md), partly parallel | NumPy algorithms |
-| ML | 21–30 | [Classical ML](../roadmap/04-machine-learning.md) | prediction system |
-| DL | 31–38 | [Deep learning](../roadmap/05-deep-learning.md) | transfer-learning app |
-| Specialize | 39–48 | one track only | capstone |
+This is the entry page for the expanded beginner collection. Do not read every link.
+Choose a target, follow the primary route, build the required evidence, and use the
+alternatives only when the primary explanation does not work for you.
 
-## Weekly rhythm
+## Start in five minutes
 
-- 2 hours concepts and documentation
-- 3 hours guided implementation
-- 3 hours independent exercises/project
-- 1 hour review and learning log
-- optional 1 hour explaining or peer review
+1. Read [how this path works](complete-beginner/README.md).
+2. Complete the [starting diagnostic](complete-beginner/diagnostic.md).
+3. Select an initial role using the [career and skills map](complete-beginner/career-map.md).
+4. Follow the [52-week curriculum](complete-beginner/curriculum.md).
+5. Track proof using the [progress checklist](complete-beginner/progress-checklist.md).
 
-## Beginner safeguards
+## Beginner collection
 
-- Type code; do not only watch videos.
-- Keep projects small enough to finish.
-- Do not start with agents, fine-tuning, or complex frameworks.
-- Learn debugging before relying on AI-generated fixes.
-- If stuck for 30 minutes, reduce the problem and ask a precise question.
+| Guide | What it gives you |
+| --- | --- |
+| [Path handbook](complete-beginner/README.md) | learning rules, setup, pacing and support |
+| [Starting diagnostic](complete-beginner/diagnostic.md) | personalized entry point and skip rules |
+| [52-week curriculum](complete-beginner/curriculum.md) | weekly concepts, labs, exercises and deliverables |
+| [Curated resource library](complete-beginner/resources.md) | ranked free/paid references with prerequisites |
+| [Career and skills map](complete-beginner/career-map.md) | current role expectations derived from employer JDs |
+| [Certification map](complete-beginner/certifications.md) | optional credentials by goal, stage, cost and value |
+| [Project portfolio](complete-beginner/projects.md) | 12 guided builds and four capstone options |
+| [Interview and job readiness](complete-beginner/job-readiness.md) | resume, GitHub, interview and application gates |
+| [Progress checklist](complete-beginner/progress-checklist.md) | evidence-based completion tracker |
+| [JD research method](complete-beginner/jd-research-method.md) | sources, limitations and update process |
 
-## Readiness gates
+## Milestones
 
-Do not proceed to ML until you can clean and join data without a tutorial. Do not
-proceed to deep learning until you can create a valid baseline, split, metric, and
-error analysis with classical ML.
+| Milestone | Approximate time | Evidence |
+| --- | ---: | --- |
+| Digital and Python foundations | Month 2 | tested Python CLI |
+| Data analysis readiness | Month 4 | SQL + EDA case study |
+| Classical ML readiness | Month 7 | evaluated prediction system |
+| First specialization | Month 10 | end-to-end applied AI project |
+| Job-ready portfolio | Month 12+ | 3–4 reviewed, reproducible projects |
+
+## The rule that prevents tutorial hell
+
+For every hour of videos or reading, spend at least two hours writing, debugging,
+testing, analysing, or explaining. A completed course is activity; a reproducible
+project and a clear explanation are evidence.
